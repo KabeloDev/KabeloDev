@@ -5,7 +5,7 @@ Software, web and app developer.
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Student Hub web application</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Student Hub](https://github.com/KabeloDev/StudentHub)
 
 <h2> 🤳 Connect with me:</h2>
 
