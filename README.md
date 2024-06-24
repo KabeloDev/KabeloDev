@@ -1,8 +1,12 @@
-<h1>Hi, I'm Kabelo! <br/>
-Software, web and app developer.
-</h1>
+<h1>Hi, I'm Kabelo!<br/></h1>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>
+<em>Software, web and app developer. </em>
+</h2>
+
+<h2>
+  👨‍💻 My Projects:
+</h2>
 
 - <b>Student Hub web application</b>
   - [Student Hub](https://github.com/KabeloDev/StudentHub)
