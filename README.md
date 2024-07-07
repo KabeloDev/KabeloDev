@@ -12,6 +12,9 @@
   - [Student Hub](https://github.com/KabeloDev/StudentHub)
 - <b>Hospital management web and mobile application</b>
   - [Hospital management app](https://github.com/KabeloDev/Hospital-management-app)
+- <b>Employee management web application</b>
+  - [Employee management app](- <b>Hospital management web and mobile application</b>
+  - [Hospital management app](https://github.com/KabeloDev/Hospital-management-app))
 
 <h2> 🤳 Connect with me:</h2>
 
