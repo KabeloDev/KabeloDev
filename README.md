@@ -13,7 +13,9 @@
 - <b>Hospital management web and mobile application</b>
   - [Hospital management app](https://github.com/KabeloDev/Hospital-management-app)
 - <b>Employee management web application</b>
-  - [Employee management app](https://github.com/KabeloDev/Employee-management-app)
+  - [Employee management application](https://github.com/KabeloDev/Employee-management-app)
+- <b>Simple chat application</b>
+  - [Simple chat app](https://github.com/KabeloDev/Chat-App)
 
 <h2> 🤳 Connect with me:</h2>
 
