@@ -9,7 +9,7 @@
 </h2>
 
 - <b>Contact List Demo application</b>
-  - [Conact List App](https://github.com/KabeloDev/Conatct-List-Demo-App)
+  - [Contact List App](https://github.com/KabeloDev/Conatct-List-Demo-App)
 - <b>Student Hub web application</b>
   - [Student Hub](https://github.com/KabeloDev/StudentHub)
 - <b>Hospital management web and mobile application</b>
