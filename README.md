@@ -8,6 +8,8 @@
   👨‍💻 My Projects:
 </h2>
 
+- <b>Bookstore application</b>
+  - [Bookstore app](https://github.com/KabeloDev/Bookstore)
 - <b>Budget maker application</b>
   - [Budget maker app](https://github.com/KabeloDev/Budget-Maker)
 - <b>Contact List Demo application</b>
