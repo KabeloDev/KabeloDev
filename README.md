@@ -16,7 +16,7 @@
   - [Contact List App](https://github.com/KabeloDev/Conatct-List-Demo-App)
 - <b>Student Hub web application</b>
   - [Student Hub](https://github.com/KabeloDev/StudentHub)
-- <b>Hospital management web and mobile application</b>
+- <b>Hospital management mobile application</b>
   - [Hospital management app](https://github.com/KabeloDev/Hospital-management-app)
 - <b>Employee management web application</b>
   - [Employee management app](https://github.com/KabeloDev/Employee-management-app)
