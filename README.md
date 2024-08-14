@@ -10,18 +10,27 @@
 
 - <b>Bookstore application</b>
   - [Bookstore app](https://github.com/KabeloDev/Bookstore)
+    
 - <b>Budget maker application</b>
   - [Budget maker app](https://github.com/KabeloDev/Budget-Maker)
-- <b>Contact List Demo application</b>
-  - [Contact List App](https://github.com/KabeloDev/Conatct-List-Demo-App)
+    
 - <b>Student Hub web application</b>
   - [Student Hub](https://github.com/KabeloDev/StudentHub)
-- <b>Hospital management mobile application</b>
-  - [Hospital management app](https://github.com/KabeloDev/Hospital-management-app)
-- <b>Employee management web application</b>
-  - [Employee management app](https://github.com/KabeloDev/Employee-management-app)
+    
 - <b>Simple chat application</b>
   - [Simple chat app](https://github.com/KabeloDev/Chat-App)
+
+- <b>Hospital management mobile application</b>
+  - [Hospital management app](https://github.com/KabeloDev/Hospital-management-app)
+    
+- <b>Employee management web application</b>
+  - [Employee management app](https://github.com/KabeloDev/Employee-management-app)
+    
+- <b>Contact List Demo application</b>
+  - [Contact List App](https://github.com/KabeloDev/Conatct-List-Demo-App)
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
