@@ -8,7 +8,11 @@
   👨‍💻 My Projects:
 </h2>
 
-- <b>Cologne store application</b>
+- <b>Cologne store web application</b>
+  - [Cologne store web app](https://github.com/KabeloDev/cologne-store-web)
+
+
+- <b>Cologne store mobile application</b>
   - [Cologne store mobile app](https://github.com/KabeloDev/cologne-store-mobile)
 
 - <b>Bookstore application</b>
