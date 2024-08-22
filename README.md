@@ -8,6 +8,9 @@
   👨‍💻 My Projects:
 </h2>
 
+- <b>Car wash service web application</b>
+  - [Car wash service web app](https://github.com/KabeloDev/car-wash-service)
+
 - <b>Cologne store web application</b>
   - [Cologne store web app](https://github.com/KabeloDev/cologne-store-web)
 
