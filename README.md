@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kabelo!<br/></h1>
 
 <h2>
-<em>Software, web and mobile app developer. </em>
+<em>Web and mobile app developer. </em>
 </h2>
 
 <h2>
