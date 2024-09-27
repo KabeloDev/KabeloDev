@@ -42,15 +42,17 @@
 
 <div align="center">
   <!-- C# -->
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="margin: 15px;" />
   <!-- ASP.NET Core -->
-  <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET Core" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET Core" style="margin: 15px;" />
   <!-- Microsoft SQL Server -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server" style="margin: 15px;" />
   <!-- Flutter -->
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" style="margin: 15px;" />
   <!-- Firebase -->
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin: 15px;" />
+  <!-- Bootstrap -->
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin: 15px;" />
 </div>
 
 <h2> 🤳 Connect with me:</h2>
