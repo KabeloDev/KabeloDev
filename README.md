@@ -8,8 +8,8 @@
   👨‍💻 My Projects:
 </h2>
 
-- <b>Simply storgae and task management web application</b>
-  - [Simply storgae and task management web app](https://github.com/KabeloDev/simplify-storage-and-manage-web-app)
+- <b>Simplify storgae and task management web application</b>
+  - [Simplify storgae and task management web app](https://github.com/KabeloDev/simplify-storage-and-manage-web-app)
 
 - <b>Car wash service web application</b>
   - [Car wash service web app](https://github.com/KabeloDev/car-wash-service)
