@@ -8,6 +8,9 @@
   👨‍💻 My Projects:
 </h2>
 
+- <b>Simply storgae and task management web application</b>
+  - [Simply storgae and task management web app](https://github.com/KabeloDev/simplify-storage-and-manage-web-app)
+
 - <b>Car wash service web application</b>
   - [Car wash service web app](https://github.com/KabeloDev/car-wash-service)
 
@@ -24,7 +27,7 @@
   - [Budget maker app](https://github.com/KabeloDev/Budget-Maker)
 
 - <b>Student Hub web application</b>
-  - [Student Hub](https://github.com/KabeloDev/StudentHub)
+  - [Student hub](https://github.com/KabeloDev/StudentHub)
 
 - <b>Simple chat application</b>
   - [Simple chat app](https://github.com/KabeloDev/Chat-App)
@@ -36,7 +39,7 @@
   - [Employee management app](https://github.com/KabeloDev/Employee-management-app)
 
 - <b>Contact List Demo application</b>
-  - [Contact List App](https://github.com/KabeloDev/Conatct-List-Demo-App)
+  - [Contact list app](https://github.com/KabeloDev/Conatct-List-Demo-App)
 
 <h2> 🛠 My Tech Stack:</h2>
 
