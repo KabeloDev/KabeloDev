@@ -37,19 +37,19 @@
   <em>A streamlined solution for managing personal finances.</em>
 
 - **[Student Hub Web App](https://github.com/KabeloDev/StudentHub)**  
-  <em>A central platform for student communication and resources.</em>
+  <em>A central platform for student registration, management and resources.</em>
 
 - **[Simple Chat App](https://github.com/KabeloDev/Chat-App)**  
-  <em>A simple, secure way to chat online.</em>
+  <em>A simple, secure way to send message.</em>
 
 - **[Hospital Management Mobile App](https://github.com/KabeloDev/Hospital-management-app)**  
-  <em>An app for efficient hospital administration.</em>
+  <em>An app for basic hospital administration.</em>
 
 - **[Employee Management Web App](https://github.com/KabeloDev/Employee-management-app)**  
   <em>Manage employee information effortlessly.</em>
 
 - **[Contact List Demo App](https://github.com/KabeloDev/Conatct-List-Demo-App)**  
-  <em>Manage your contacts in an intuitive demo app.</em>
+  <em>Manage your contacts in a simple demo app.</em>
 
 ---
 
