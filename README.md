@@ -1,69 +1,67 @@
-<h1>Hi, I'm Kabelo!<br/></h1>
+<h1 align="center">Hi, I'm Kabelo! 👋</h1>
 
-<h2>
-  <em>Web and mobile app developer.</em>
+<h2 align="center">
+  <em>Web and Mobile App Developer</em>
 </h2>
 
-<h2>
-  👨‍💻 My Projects:
-</h2>
+<p align="center">
+  Passionate about building innovative web and mobile applications that solve real-world problems.
+</p>
 
-- <b>Simplify storage and task management web application</b>
-  - [Simplify storage and task management web app](https://github.com/KabeloDev/simplify-storage-and-manage-web-app)
+---
 
-- <b>Car wash service web application</b>
-  - [Car wash service web app](https://github.com/KabeloDev/car-wash-service)
+### 👨‍💻 My Projects:
 
-- <b>Cologne store web application</b>
-  - [Cologne store web app](https://github.com/KabeloDev/cologne-store-web)
+- **[Simplify Storage and Task Management Web App](https://github.com/KabeloDev/simplify-storage-and-manage-web-app)**  
+  Streamline your storage and task management efficiently.
 
-- <b>Cologne store mobile application</b>
-  - [Cologne store mobile app](https://github.com/KabeloDev/cologne-store-mobile)
+- **[Car Wash Service Web App](https://github.com/KabeloDev/car-wash-service)**  
+  A hassle-free platform for car wash bookings.
 
-- <b>Bookstore application</b>
-  - [Bookstore app](https://github.com/KabeloDev/Bookstore)
+- **[Cologne Store Web App](https://github.com/KabeloDev/cologne-store-web)**  
+  Explore and purchase luxury colognes with ease.
 
-- <b>Budget maker application</b>
-  - [Budget maker app](https://github.com/KabeloDev/Budget-Maker)
+- **[Cologne Store Mobile App](https://github.com/KabeloDev/cologne-store-mobile)**  
+  Mobile shopping experience for exclusive colognes.
 
-- <b>Student Hub web application</b>
-  - [Student hub](https://github.com/KabeloDev/StudentHub)
+- **[Bookstore App](https://github.com/KabeloDev/Bookstore)**  
+  An organized solution for online book browsing and purchases.
 
-- <b>Simple chat application</b>
-  - [Simple chat app](https://github.com/KabeloDev/Chat-App)
+- **[Budget Maker App](https://github.com/KabeloDev/Budget-Maker)**  
+  Manage and track your budget effectively.
 
-- <b>Hospital management mobile application</b>
-  - [Hospital management app](https://github.com/KabeloDev/Hospital-management-app)
+- **[Student Hub Web App](https://github.com/KabeloDev/StudentHub)**  
+  A platform to centralize student resources and communication.
 
-- <b>Employee management web application</b>
-  - [Employee management app](https://github.com/KabeloDev/Employee-management-app)
+- **[Simple Chat App](https://github.com/KabeloDev/Chat-App)**  
+  A lightweight and simple chat solution.
 
-- <b>Contact List Demo application</b>
-  - [Contact list app](https://github.com/KabeloDev/Conatct-List-Demo-App)
+- **[Hospital Management Mobile App](https://github.com/KabeloDev/Hospital-management-app)**  
+  Efficient hospital administration on mobile.
 
-<h2> 🛠 My Tech Stack:</h2>
+- **[Employee Management Web App](https://github.com/KabeloDev/Employee-management-app)**  
+  Manage employee data and tasks seamlessly.
 
-<div align="center">
-  <!-- C# -->
+- **[Contact List Demo App](https://github.com/KabeloDev/Conatct-List-Demo-App)**  
+  A demo app to manage contacts easily.
+
+---
+
+### 🛠 My Tech Stack:
+
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="margin: 15px;" />
-  <!-- ASP.NET Core -->
   <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET Core" style="margin: 15px;" />
-  <!-- Microsoft SQL Server -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server" style="margin: 15px;" />
-  <!-- Flutter -->
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" style="margin: 15px;" />
-  <!-- Firebase -->
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin: 15px;" />
-  <!-- Bootstrap -->
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin: 15px;" />
-</div>
+</p>
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="Kabelo Makhanya | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Kabelo Makhanya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🤳 Connect with Me:
 
-<br clear="left"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kabelo-makhanya-224b82315/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC2vKVgxbw8lKSVZIlU9VeOA)
 
-[youtube]: https://www.youtube.com/channel/UC2vKVgxbw8lKSVZIlU9VeOA
-[linkedin]: https://www.linkedin.com/in/kabelo-makhanya-224b82315/
