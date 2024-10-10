@@ -62,7 +62,11 @@
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 10px;" />
 </p>
+
 
 ---
 
