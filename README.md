@@ -70,17 +70,9 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KabeloDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KabeloDev&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
+🚀 GitHub Vibes:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KabeloDev&show_icons=true&theme=radical" alt="Kabelo's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KabeloDev&theme=radical" alt="GitHub Streaks – On Fire! 🔥" /> </p>
+💻 Building cool stuff, one commit at a time. Let's keep the streak alive! 🎯
 
 ### 🌍 Let's Connect:
 
