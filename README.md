@@ -37,10 +37,10 @@
   <em>A streamlined solution for managing personal finances.</em>
 
 - **[Student Hub Web App](https://github.com/KabeloDev/StudentHub)**  
-  <em>A central platform for student registration, management and resources.</em>
+  <em>A central platform for student registration, management, and resources.</em>
 
 - **[Simple Chat App](https://github.com/KabeloDev/Chat-App)**  
-  <em>A simple, secure way to send message.</em>
+  <em>A simple, secure way to send messages.</em>
 
 - **[Hospital Management Mobile App](https://github.com/KabeloDev/Hospital-management-app)**  
   <em>An app for basic hospital administration.</em>
@@ -67,11 +67,12 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 10px;" />
 </p>
 
-
 ---
 
 🚀 GitHub Vibes:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KabeloDev&show_icons=true&theme=radical" alt="Kabelo's GitHub Stats" /> </p> <p align="center"> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=KabeloDev&show_icons=true&theme=radical" alt="Kabelo's GitHub Stats" /> 
+</p>
 
 ### 📊 Language Usage Stats:
 
@@ -93,7 +94,3 @@
 <p align="center">
   <em>Always open to collaborations and new opportunities!</em>
 </p>
-
----
-
-
