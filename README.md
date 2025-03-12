@@ -75,7 +75,7 @@
 
 🚀 GitHub Vibes:
 <p align="center"> 
-  <img src="" alt="Kabelo's GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=KabeloDev&show_icons=true&theme=radical" alt="Kabelo's GitHub Stats" /> 
 </p>
 
 ### 📊 Language Usage Stats:
