@@ -18,7 +18,7 @@
 
 ### 💼 Projects:
 
-- **[Simplify Storage and Task Management Web App](https://github.com/KabeloDev/simplify-storage-and-manage-web-app)**  
+- **[Storage and Task Management Web App](https://github.com/KabeloDev/simplify-storage-and-manage-web-app)**  
   <em>An efficient tool for organizing tasks and managing storage.</em>
 
 - **[Car Wash Service Web App](https://github.com/KabeloDev/CarWash_Service)**  
