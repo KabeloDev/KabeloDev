@@ -18,6 +18,9 @@
 
 ### 💼 Projects:
 
+- **[Fitness Web App UI](https://github.com/KabeloDev/FitnessApp_UI)** |  **[Fitness Web App API](https://github.com/KabeloDev/FitnessApp_API)**
+  <em>Fun and interactive web app designed to help you track, plan, and improve your fitness journey.</em>
+
 - **[Storage and Task Management Web App](https://github.com/KabeloDev/simplify-storage-and-manage-web-app)**  
   <em>An efficient tool for organizing tasks and managing storage.</em>
 
