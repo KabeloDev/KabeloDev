@@ -18,7 +18,7 @@
 
 ### 💼 Projects:
 
-- **[Fitness Web App UI](https://github.com/KabeloDev/FitnessApp_UI)** |  **[Fitness Web App API](https://github.com/KabeloDev/FitnessApp_API)**
+- **[Fitness Tracker Web App UI](https://github.com/KabeloDev/FitnessApp_UI)** |  **[Fitness Tracker Web App API](https://github.com/KabeloDev/FitnessApp_API)**
   <br/>
   <em>Fun and interactive web app designed to help you track, plan, and improve your fitness journey.</em>
 
