@@ -28,10 +28,10 @@
 - **[Car Wash Service Web App](https://github.com/KabeloDev/CarWash_Service)**  
   <em>Simplifying the car wash experience with online bookings.</em>
 
-- **[E-Commerce Web App](https://github.com/KabeloDev/cologne-store-web)**  
+- **[Online Store Web App](https://github.com/KabeloDev/cologne-store-web)**  
   <em>A sleek online store for luxury colognes.</em>
 
-- **[E-Commerce Mobile App](https://github.com/KabeloDev/cologne-store-mobile)**  
+- **[Online Store Mobile App](https://github.com/KabeloDev/cologne-store-mobile)**  
   <em>Shop for colognes from your mobile device.</em>
 
 - **[Bookstore App](https://github.com/KabeloDev/Bookstore)**  
