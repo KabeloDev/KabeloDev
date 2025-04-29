@@ -18,6 +18,9 @@
 
 ### 💼 Projects:
 
+- **[Social Media Profile Mobile App](https://github.com/KabeloDev/profile_screen)**  
+  <em>A mobile-first social media profile app built for a smooth and engaging user experience.</em>
+
 - **[Fitness Tracker Mobile App UI](https://github.com/KabeloDev/FitnessApp_Mobile)** | **[Fitness Tracker Web App UI](https://github.com/KabeloDev/FitnessApp_UI)** |  **[Fitness Tracker API](https://github.com/KabeloDev/FitnessApp_API)**
   <br/>
   <em>Fun and interactive web and mobile app designed to help you track, plan, and improve your fitness journey.</em>
