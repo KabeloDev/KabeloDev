@@ -18,6 +18,9 @@
 
 ### 💼 Projects:
 
+- **[Character Wiki Mobile App](https://github.com/KabeloDev/character_wiki-rick_and_morty)**  
+  <em>A fun Flutter app that showcases characters, episodes, and locations from the Rick and Morty universe using clean architecture, BLoC, and multi-API integration.</em>
+
 - **[Social Media Profile Mobile App](https://github.com/KabeloDev/profile_screen)**  
   <em>A mobile-first social media profile app built for a smooth and engaging user experience.</em>
 
