@@ -18,6 +18,9 @@
 
 ### 💼 Projects:
 
+- **[Mood Tracker Mobile App](https://github.com/KabeloDev/advice_generator-main)**  
+  <em>Track your moods, reflect daily, and view patterns over time — all in one clean and simple Flutter app.</em>
+
 - **[Character Wiki Mobile App](https://github.com/KabeloDev/character_wiki-rick_and_morty)**  
   <em>A fun Flutter app that showcases characters, episodes, and locations from the Rick and Morty universe using clean architecture, BLoC, and multi-API integration.</em>
 
