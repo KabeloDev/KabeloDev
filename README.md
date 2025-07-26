@@ -18,6 +18,9 @@
 
 ### 💼 Projects:
 
+- **[Advice Generator Mobile App](https://github.com/KabeloDev/advice_generator-main)**  
+  <em>Get advice with a single tap!</em>
+
 - **[Mood Tracker Mobile App](https://github.com/KabeloDev/mood_tracker-main)**  
   <em>Track your moods, reflect daily, and view patterns over time — all in one clean and simple Flutter app.</em>
 
