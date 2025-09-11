@@ -34,6 +34,9 @@
   <br/>
   <em>Fun and interactive web and mobile app designed to help you track, plan, and improve your fitness journey.</em>
 
+- **[Online Store Mobile App](https://github.com/KabeloDev/cologne-store-mobile)**  
+  <em>Shop for colognes from your mobile device.</em>
+
 - **[Storage and Task Management Web App](https://github.com/KabeloDev/simplify-storage-and-manage-web-app)**  
   <em>An efficient tool for organizing tasks and managing storage.</em>
 
@@ -42,9 +45,6 @@
 
 - **[Online Store Web App](https://github.com/KabeloDev/cologne-store-web)**  
   <em>A sleek online store for luxury colognes.</em>
-
-- **[Online Store Mobile App](https://github.com/KabeloDev/cologne-store-mobile)**  
-  <em>Shop for colognes from your mobile device.</em>
 
 - **[Bookstore App](https://github.com/KabeloDev/Bookstore)**  
   <em>Browse and purchase books with ease.</em>
