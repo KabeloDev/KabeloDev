@@ -18,6 +18,15 @@
 
 ### 💼 Projects:
 
+- **[Formula 1 Mobile App](https://github.com/KabeloDev/f1-app)**  
+  <em>Get advice with a single tap!</em>
+
+- **[Task Manager Mobile App](https://github.com/KabeloDev/react-native-task-manager)**  
+  <em>Get advice with a single tap!</em>
+
+- **[Study Planner Mobile App](https://github.com/KabeloDev/react_native_study_planner)**  
+  <em>Get advice with a single tap!</em>
+
 - **[Advice Generator Mobile App](https://github.com/KabeloDev/flutter_advice_generator)**  
   <em>Get advice with a single tap!</em>
 
