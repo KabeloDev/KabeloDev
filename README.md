@@ -98,13 +98,13 @@
 
 🚀 GitHub Vibes:
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=KabeloDev&show_icons=true&theme=radical" alt="Kabelo's GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=KabeloDev&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 ### 📊 Language Usage Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabeloDev&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Kabelo's GitHub Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabeloDev&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" />
 </p>
 
 ### 🌍 Let's Connect:
