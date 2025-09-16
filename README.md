@@ -96,11 +96,6 @@
 
 ---
 
-🚀 GitHub Vibes:
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=KabeloDev&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
-
 ### 📊 Language Usage Stats:
 
 <p align="center">
